@@ -1,4 +1,4 @@
-# Caesar_Cypher
+# Caesar_Cipher
 
 The Caesar cipher is a simple substitution encryption technique attributed to Julius Caesar. It involves shifting each letter in a message by a fixed number of positions in the alphabet. For example, with a shift of 3, 'A' becomes 'D.' It's a basic and easily breakable method in modern cryptography.
 
